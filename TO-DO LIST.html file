@@ -1,0 +1,52 @@
+
+/* */
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+   <link rel="stylesheet" href="style.css">
+    <title> To-Do List</title>
+
+</head>
+<body>
+    <div class="main-container">
+        <div class="left-panel">
+            <h2>♥ 𝙳𝚊𝚒𝚕𝚢 𝙶𝚘𝚊𝚕𝚜</h2>
+            <h3>Ready,Set,Go!!</h3>
+            <img     src="https://png.pngtree.com/png-clipart/20220222/original/pngtree-woman-writing-tasks-in-notebook-png-image_7299420.png"  width="533" height="100%"alt="To-Do List Icon">
+        </div>
+        <div class="right-panel">
+            <h2 style="font-family:  'Montserrat';color:  #735DA5;"> 💜 To-Dos</h2>
+            <form id="todo-form">
+                <input type="text" id="new-task" placeholder="Write here..." required>
+                <button type="submit">Add</button>
+            </form>
+            <ul id="todo-list">
+                <li class="task">
+                    <span>Pay bills</span>
+                    <button class="delete-button">×</button>
+                </li>
+                <li class="task">
+                    <span>Meet friend</span>
+                    <button class="delete-button">×</button>
+                </li>
+                <li class="task">
+                    <span>Buy veggies</span>
+                    <button class="delete-button">×</button>
+                </li>
+                <li class="task">
+                    <span>Read a book</span>
+                    <button class="delete-button">×</button>
+                </li> 
+                <li class="task">
+                    <span>Organize house</span>
+                    <button class="delete-button">×</button>
+                </li>
+            </ul>
+        </div>
+    </div>
+  <script src="script.js"></script>
+</body>
+</html>
