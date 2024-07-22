@@ -12,7 +12,7 @@
 
 **Mentor**  :  
 
-### OVERVIEW OF THE PROJECT##
+### OVERVIEW OF THE PROJECT
 
 ### PROJECT: TO DO LIST WEB APP USING HTML,CSS,JAVASCRIPT
 
@@ -33,8 +33,8 @@ Users can add and delete tasks as needed.
 ### HOW TO USE:
 1.  Open `index.html`in a web browser.
 2. Enter a task in the input field.
-3. Click the "ADD" button to add the task to the list
-4. Click the delete button(x) next to a task to remove it from the list
+3. Click the `ADD` button to add the task to the list
+4. Click the delete button `x` next to a task to remove it from the list
 
 ### FUTURE ENHANCEMENTS:
 - Add task editing functionality.
