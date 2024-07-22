@@ -14,7 +14,7 @@
 
 ## OVERVIEW OF THE PROJECT
 
-### PROJECT : TO DO LIST WEB APP USING HTML,CSS,JAVASCRIPT
+ **PROJECT : TO DO LIST WEB APP USING HTML,CSS,JAVASCRIPT
 
 ## OBJECTIVE
 The Objective of this project is to craft a simple, User-friendly to-do list web application using HTML,CSS,and Javascript.
