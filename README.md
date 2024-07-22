@@ -1,4 +1,5 @@
 **Name**    : DHARSHINI . R
+
 **Company** : CODTECH IT SOLUTIONS
 **ID**      : cta4WD4373
 **Domain**  : "WEB DEVELOPMENT"
@@ -31,6 +32,6 @@ Users can add and delete tasks as needed.
 
 ### FUTURE ENHANCEMENTS:
 - Add task editing functionality.
-# Store tasks in local storage to persit data across sessions.
-# Add task due dates and priority levels.
-# Implement a filter to show completed and pending tasks.
+- Store tasks in local storage to persit data across sessions.
+- Add task due dates and priority levels.
+- Implement a filter to show completed and pending tasks.
