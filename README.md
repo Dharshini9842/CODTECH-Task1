@@ -30,7 +30,7 @@ Users can add and delete tasks as needed.
 4. Click the delete button(x) next to a task to remove it from the list
 
 ### FUTURE ENHANCEMENTS:
-# Add task editing functionality.
+- Add task editing functionality.
 # Store tasks in local storage to persit data across sessions.
 # Add task due dates and priority levels.
 # Implement a filter to show completed and pending tasks.
