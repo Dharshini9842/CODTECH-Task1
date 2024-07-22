@@ -1,0 +1,178 @@
+/*  */
+body {
+    font-family: 'Arial', sans-serif;
+    background: url('https://static.vecteezy.com/system/resources/previews/035/675/462/non_2x/abstract-lilac-background-with-leaves-and-flowers-vector.jpg') no-repeat center center fixed;
+    background-size: cover;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    height: 100vh;
+    margin: 0;
+    color: #000000;
+}
+
+.main-container {
+    display: flex;
+    background-color: a(0);
+    border-radius: 10px;
+    box-shadow: 0 0 15px rgba(0, 0, 0, 0.5);
+    overflow: hidden;
+}
+
+.left-panel, .right-panel {
+    padding: 20px;
+}
+
+.left-panel {
+    background: rgba(153, 106, 210, 0.9);
+    text-align: center;
+    border-right: 1px solid #444;
+}
+
+.left-panel h2 {
+    color: #270537;
+    margin-bottom: 20px;
+}
+
+.left-panel img {
+    height: 350px;
+    width: 300px;
+    opacity: none;
+}
+
+.right-panel {
+    background: a(0);
+    width: 400px;
+    text-align: center;
+    
+}
+
+.right-panel h2 {
+    color: #7f1cc5;
+    margin-bottom: 20px ;
+    
+}
+
+
+form {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 20px;}
+
+input[type="text"] {
+    flex: 1;
+    padding: 10px;
+    border: 2px solid #000000;
+    border-radius: 5px;
+    margin-right: 10px;
+    background: rgba(0, 0, 0, 0.2);
+    color: #000000;
+}
+
+button {
+    padding: 10px;
+    border: none;
+    background-color: #735DA5;
+    color: white;
+    border-radius: 5px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+button:hover {
+    background-color: #735DA5;
+}
+
+ul {
+    list-style:circle;
+    padding: 10px;
+}
+ul li {
+    cursor: pointer;
+    position: relative;
+    padding: 12px 8px 12px 40px;
+    list-style-type: none;
+    background: #E6E6FA;
+    font-size: 18px;
+    transition: 0.2s;
+
+    /* make the list items unselectable */
+    -webkit-user-select: none;
+    -moz-user-select: none;
+    -ms-user-select: none;
+    user-select: none;
+}
+ul li:nth-child(odd) {
+    background: #f9f9f9;
+}
+
+/* Darker background-color on hover */
+ul li:hover {
+    background: #735DA5;
+}
+
+/* When clicked on, add a background color and strike out text */
+ul li.checked {
+    background: #73609f;
+    color: #100e0e;
+    text-decoration: line-through;
+}
+
+/* Add a "checked" mark when clicked on */
+ul li.checked::before {
+    content: '';
+    position: absolute;
+    border-color: #fff;
+    border-style: solid;
+    border-width: 0 2px 2px 0;
+    top: 10px;
+    left: 16px;
+    transform: rotate(45deg);
+    height: 7px;
+    width: 7px;
+}
+
+
+
+.close:hover {
+    background-color: #f44336;
+    color: white;
+}
+
+
+li {
+    background-color: rgba(255, 255, 255, 0.2);
+    padding: 10px;
+    border: 2px solid #ffffff;
+    border-radius: 5px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    margin-bottom: 10px;
+    cursor: pointer;
+    transition: background-color 0.3s;
+}
+
+li:hover {
+    background-color: rgba(163, 64, 216, 0.849);
+}
+
+li.completed span {
+    text-decoration: line-through;
+    color: #888;
+}
+
+.delete-button {
+    background-color: #735DA5;
+    border: none;
+    color: white;
+    font-size: 20px;
+    cursor: pointer;
+    padding: 5px;
+    border-radius: 5px;
+    transition: background-color 0.3s;
+}
+
+.delete-button:hover {
+    background-color: #735DA5;
+}
