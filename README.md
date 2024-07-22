@@ -19,9 +19,9 @@ Users can add and delete tasks as needed.
 - Responsive design
  
 ### FILE DESCRIPTION:
-1.*index.html*: The main HTML file that structures the web page.
-2.*style.css*:  The CSS file that styles the web page.
-3.*script.js*:  The Javascript file that adds functionality to the web page
+1. index.html: The main HTML file that structures the web page.
+2. style.css:  The CSS file that styles the web page.
+3. script.js:  The Javascript file that adds functionality to the web page
 
 ### HOW TO USE:
 1.  Open `index.html`in a web browser.
@@ -30,7 +30,7 @@ Users can add and delete tasks as needed.
 4. Click the delete button(x) next to a task to remove it from the list
 
 ### FUTURE ENHANCEMENTS:
-~ Add task editing functionality.
-~ Store tasks in local storage to persit data across sessions.
-~ Add task due dates and priority levels.
-~ Implement a filter to show completed and pending tasks.
+# Add task editing functionality.
+# Store tasks in local storage to persit data across sessions.
+# Add task due dates and priority levels.
+# Implement a filter to show completed and pending tasks.
