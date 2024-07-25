@@ -14,7 +14,8 @@
         <div class="left-panel">
             <h2>♥ 𝙳𝚊𝚒𝚕𝚢 𝙶𝚘𝚊𝚕𝚜</h2>
             <h3>Ready,Set,Go!!</h3>
-            <img     src="https://png.pngtree.com/png-clipart/20220222/original/pngtree-woman-writing-tasks-in-notebook-png-image_7299420.png"  width="533" height="100%"alt="To-Do List Icon">
+            <img     src="https://png.pngtree.com/png-clipart/20220222/original/pngtree-woman-writing-tasks-in-notebook-png-image_7299420.png" 
+            width="533"     height="100%"    alt="To-Do List Icon">
         </div>
         <div class="right-panel">
             <h2 style="font-family:  'Montserrat';color:  #735DA5;"> 💜 To-Dos</h2>
