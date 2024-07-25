@@ -1,4 +1,5 @@
-/*  */
+/* Here is the CSS code for simple todo list Web Application*/
+
 body {
     font-family: 'Arial', sans-serif;
     background: url('https://static.vecteezy.com/system/resources/previews/035/675/462/non_2x/abstract-lilac-background-with-leaves-and-flowers-vector.jpg') no-repeat center center fixed;
