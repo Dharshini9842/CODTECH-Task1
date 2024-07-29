@@ -10,7 +10,7 @@
 
 **Duration**: "July to August 2024"
 
-**Mentor**  :  
+**Mentor**  :   Muzammil Ahmed
 
 ## OVERVIEW OF THE PROJECT
 
